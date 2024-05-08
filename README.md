@@ -1,4 +1,4 @@
-# Webauthn::Rails
+# WebauthnRails
 Short description and motivation.
 
 ## Usage

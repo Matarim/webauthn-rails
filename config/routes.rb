@@ -1,2 +1,2 @@
-Webauthn::Rails::Engine.routes.draw do
+WebauthnRails::Engine.routes.draw do
 end

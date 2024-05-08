@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  mount Webauthn::Rails::Engine => "/webauthn-rails"
+  mount WebauthnRails::Engine => "/webauthn-rails"
 end

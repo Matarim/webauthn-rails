@@ -1,7 +1,7 @@
 require "test_helper"
 
-class Webauthn::RailsTest < ActiveSupport::TestCase
+class WebauthnRailsTest < ActiveSupport::TestCase
   test "it has a version number" do
-    assert Webauthn::Rails::VERSION
+    assert WebauthnRails::VERSION
   end
 end
