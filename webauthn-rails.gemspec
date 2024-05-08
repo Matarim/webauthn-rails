@@ -1,13 +1,13 @@
-require_relative "lib/webauthn/rails/version"
+require_relative "lib/webauthn_rails/rails/n"
 
 Gem::Specification.new do |spec|
   spec.name        = "webauthn-rails"
   spec.version     = WebauthnRails::VERSION
   spec.authors     = ["Matthew Rampey", "Sairo Guanipa"]
-  spec.email       = ["matthew@softwaremaniacs.com", "sairojgg@gmail.com"]
-  spec.homepage    = "http://mygemserver.com"
-  spec.summary     = "Summary of WebauthnRails."
-  spec.description = "Description of WebauthnRails."
+  spec.email       = ["matthew@poormansascent.com", "sairojgg@gmail.com"]
+  spec.homepage    = "https://github.com/Matarim/webauthn-rails"
+  spec.summary     = "Webauthn with Rails"
+  spec.description = "Integrate Webauthn into your Rails application with ease."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"

@@ -3,7 +3,7 @@
 require 'rails/generators/base'
 require 'securerandom'
 
-module Webauthn
+module WebauthnRails
   module Generators
     MissingORMError = Class.new(Thor::Error)
 

@@ -1,1 +1,1 @@
-//= link_directory ../stylesheets/webauthn/rails .css
+//= link_directory ../stylesheets/webauthn_rails .css
